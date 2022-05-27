@@ -1,4 +1,4 @@
 {
   "animates": ["animate1"],
-  "autoChangeSeconds": 15
+  "autoChangeSeconds": 0
 }
