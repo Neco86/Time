@@ -1,1 +1,4 @@
-["animate1"]
+{
+  "animates": ["animate1"],
+  "autoChangeSeconds": 15
+}
